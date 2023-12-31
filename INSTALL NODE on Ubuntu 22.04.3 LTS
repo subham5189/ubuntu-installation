@@ -6,7 +6,7 @@ node -v
 npm -v
 
 ## OUTPUT ##
-s:~$ node -v
+subham:~$ node -v
 v16.20.2
-janardan:~$ npm -v
+subham:~$ npm -v
 8.19.4
